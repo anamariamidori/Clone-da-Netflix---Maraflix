@@ -1,4 +1,4 @@
-# Clone-da-Netflix---Maraflix
+# Clone-da-Netflix-Maraflix
 ------- projeto em andamento ----------
 
 Nesse projeto o dasafio tem o objetivo de recriar a interface do Instagram, utilizando as bases do Bootcamp Html dado pela Digital Innovation One, com aulas base do Felipe Aguiar (https://github.com/felipeAguiarCode), o editor utilizado nesse projeto é o VsCode, desenvolvido pela Microsoft.
